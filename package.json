@@ -7,7 +7,7 @@
   "scripts": {
     "start": "webpack-dev-server --env.env=dev",
     "prod": "webpack --env.env=prod",
-    "deploy": "gh-pages -d dist",
+    "deploy": "yarn prod && gh-pages -d dist",
     "lint": "standard"
   },
   "dependencies": {
