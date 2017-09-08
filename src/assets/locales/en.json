@@ -1,0 +1,35 @@
+{
+  "header.cargo": "Developer",
+  "avatar.alt": "Profile picture",
+  "left-col.social": "Social",
+  "left-col.email": "Email",
+  "left-col.linguagens": "Languages",
+  "left-col.competencias": "Personal Skills",
+  "competencias.proatividade": "Proactivity",
+  "competencias.curiosidade": "Curiosity",
+  "competencias.paixão": "Passion",
+  "competencias.criatividade": "Creativity",
+  "competencias.ambição": "Ambition",
+  "experiencia-list.experiencias": "Experiences",
+  "experiencia-list.educacao": "Education",
+  "experiencia-list.cursos": "Courses",
+  "experiencia.agora": "Now",
+  "experiencia.item1.descricao":
+    "Working as a developer, I started to put into practice and improve knowledge already acquired, such as ASP.Net MVC, Entity Framework, SQL Server and Bootstrap and learned technologies i did not know about, such as ASP.Net Web Forms and Oracle.",
+  "experiencia.item2.descricao":
+    "After five months as an intern, I was given the opportunity to become a Tester Jr., performing test cases looking for imperfections and irregularities, taking into account the technical specification of the application, and also elaborating them to ensure that the application complied with both the company interface standards and the technical specifications of the application.",
+  "experiencia.item3.descricao":
+    "Here, I took care of the react front-end infrastructure and, with the help of my workmates, create and maintain components to take care of demands requested by the UX/Analysis team.",
+  "experiencia.common.desenvolvedor": "Developer",
+  "experiencia.common.tester": "Tester",
+  "experiencia.common.paradigma": "Paradigma",
+  "experiencia.common.exact-sales": "Exact Sales",
+  "educacao.item1.titulo": "Bachelor degree in Information Systems",
+  "educacao.item1.descricao":
+    "I chose this course for being very broad, ranging from computer networks and programming, to information security and requirements engineering, which enabled me to have an overview of which areas I would have the most affinity and which ones I would like to embrace professionally.",
+  "educacao.common.estacio": "Estácio",
+  "cursos.item1.titulo": "Bootcamp - Entrepreneurship for Startups",
+  "cursos.item1.descricao":
+    "Entrepreneurship and Startups with a vision of how to create and develop business without a current context: high competitiveness, globalization and information technology.",
+  "cursos.common.estacio": "Estácio"
+}

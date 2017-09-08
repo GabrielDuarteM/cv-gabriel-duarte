@@ -1,0 +1,35 @@
+{
+  "header.cargo": "Desenvolvedor",
+  "avatar.alt": "Foto de perfil",
+  "left-col.social": "Social",
+  "left-col.email": "Email",
+  "left-col.linguagens": "Linguagens",
+  "left-col.competencias": "Competências",
+  "competencias.proatividade": "Proatividade",
+  "competencias.curiosidade": "Curiosidade",
+  "competencias.paixão": "Paixão",
+  "competencias.criatividade": "Criatividade",
+  "competencias.ambição": "Ambição",
+  "experiencia-list.experiencias": "Experiências",
+  "experiencia-list.educacao": "Educação",
+  "experiencia-list.cursos": "Cursos",
+  "experiencia.agora": "Agora",
+  "experiencia.item1.descricao":
+    "Trabalhando como desenvolvedor, passei a colocar em prática e aprimorar conhecimentos já adquiridos, como ASP.Net MVC, Entity Framework, SQL Server e Bootstrap e aprendi novas tecnologias, como ASP.Net Web Forms e Oracle.",
+  "experiencia.item2.descricao":
+    "Após cinco meses como estagiário, recebi a oportunidade de ser efetivado como Tester Jr., realizando a execução dos casos de teste à procura de imperfeições e irregularidades, levando em conta a especificação técnica da aplicação, e também os elaborando de forma a garantir ao máximo que a aplicação atendesse tanto os padrões de interface da empresa, quanto as especificações técnicas da aplicação.",
+  "experiencia.item3.descricao":
+    "Aqui, eu cuidei da infraestrutura do frontend usando react e, com a ajuda dos meus colegas de trabalho, criei e mantive componentes para cuidar de demandas solicitadas pela equipe de UX/Análise.",
+  "experiencia.common.desenvolvedor": "Desenvolvedor",
+  "experiencia.common.tester": "Tester",
+  "experiencia.common.paradigma": "Paradigma",
+  "experiencia.common.exact-sales": "Exact Sales",
+  "educacao.item1.titulo": "Bacharelado em Sistemas de Informação",
+  "educacao.item1.descricao":
+    "Escolhi este curso por ser bem amplo, abrangendo desde redes de computadores e programação, até segurança da informação e engenharia de requisitos, o que me possibilitou ter uma visão geral de quais áreas eu possuía mais afinidade e quais eu gostaria de abraçar profissionalmente.",
+  "educacao.common.estacio": "Estácio",
+  "cursos.item1.titulo": "Bootcamp - Empreendedorismo para startups",
+  "cursos.item1.descricao":
+    "Empreendedorismo e Startups com uma visão de como criar e desenvolver negócios no contexto atual: de alta competitividade, globalização e informática.",
+  "cursos.common.estacio": "Estácio"
+}

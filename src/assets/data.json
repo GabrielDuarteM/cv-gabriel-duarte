@@ -1,0 +1,47 @@
+[
+  {
+    "id": "experiencia-list.experiencias",
+    "experiencias": [
+      {
+        "data": { "inicio": "02/15/17", "fim": "hide" },
+        "descSimples": "experiencia.common.desenvolvedor",
+        "descricao": "experiencia.item3.descricao",
+        "lugar": "experiencia.common.exact-sales"
+      },
+      {
+        "data": { "inicio": "05/01/16", "fim": "02/15/17" },
+        "descSimples": "experiencia.common.desenvolvedor",
+        "descricao": "experiencia.item1.descricao",
+        "lugar": "experiencia.common.paradigma"
+      },
+      {
+        "data": { "inicio": "08/01/14", "fim": "05/01/16" },
+        "descSimples": "experiencia.common.tester",
+        "descricao": "experiencia.item2.descricao",
+        "lugar": "experiencia.common.paradigma"
+      }
+    ]
+  },
+  {
+    "id": "experiencia-list.educacao",
+    "experiencias": [
+      {
+        "data": { "inicio": "01/01/2013", "fim": "01/01/2017", "formato": "ano" },
+        "descSimples": "educacao.item1.titulo",
+        "descricao": "educacao.item1.descricao",
+        "lugar": "educacao.common.estacio"
+      }
+    ]
+  },
+  {
+    "id": "experiencia-list.cursos",
+    "experiencias": [
+      {
+        "data": { "inicio": "05/01/2015", "fim": "hide" },
+        "descSimples": "cursos.item1.titulo",
+        "descricao": "cursos.item1.descricao",
+        "lugar": "cursos.common.estacio"
+      }
+    ]
+  }
+]

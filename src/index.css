@@ -1,0 +1,16 @@
+html {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  margin: 20px;
+  height: 100%;
+}
+
+#root {
+  font-family: Roboto;
+  margin: 0;
+  margin-right: 50px;
+  height: 100%;
+}
