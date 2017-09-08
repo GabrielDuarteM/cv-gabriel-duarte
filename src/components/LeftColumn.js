@@ -1,6 +1,5 @@
 import React from 'react'
 import { injectIntl } from 'react-intl'
-import 'font-awesome/css/font-awesome.min.css'
 
 import ContatosList from '../components/ContatoList'
 import ChipList from '../components/ChipList'
