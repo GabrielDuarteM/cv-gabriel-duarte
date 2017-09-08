@@ -6,8 +6,10 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --env.env=dev",
-    "prod": "webpack --env.env=prod",
+    "build": "webpack --env.env=prod",
+    "build-dev": "webpack --env.env=dev",
     "deploy": "yarn prod && gh-pages -d dist",
+    "build-ci": "yarn lint && yarn build && yarn build-dev",
     "lint": "standard"
   },
   "dependencies": {
