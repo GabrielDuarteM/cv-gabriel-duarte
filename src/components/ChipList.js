@@ -1,8 +1,8 @@
 import React from 'react'
-import Chip from 'material-ui/Chip'
 import { injectIntl } from 'react-intl'
 
 import LeftColumnTitle from './LeftColumnTitle'
+import Chip from './Chip'
 
 const styles = {
   chip: {
