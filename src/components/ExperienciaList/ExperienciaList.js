@@ -1,20 +1,20 @@
-import React from 'react'
+import React from "react"
 
-import Experiencia from './Experiencia'
-import constants from '../constants'
+import Experiencia from "../Experiencia/Experiencia"
+import constants from "../../constants"
 
 const sty = {
   titulo: {
-    fontWeight: '600',
-    fontSize: 23
+    fontWeight: "600",
+    fontSize: 23,
   },
   firstLetters: {
-    color: constants.highlightColor
+    color: constants.highlightColor,
   },
   expList: {
     marginLeft: 200,
-    marginTop: 30
-  }
+    marginTop: 30,
+  },
 }
 
 const ExperienciaList = ({ titulo, experiencias, intl }) => {
@@ -22,9 +22,10 @@ const ExperienciaList = ({ titulo, experiencias, intl }) => {
   const rest = titulo.substr(3, titulo.length)
 
   return (
-    <div style={sty.expList} >
+    <div style={sty.expList}>
       <div style={sty.titulo}>
-        <span style={sty.firstLetters}>{firstLetters}</span>{rest}
+        <span style={sty.firstLetters}>{firstLetters}</span>
+        {rest}
       </div>
       <Experiencia experiencias={experiencias} />
     </div>
