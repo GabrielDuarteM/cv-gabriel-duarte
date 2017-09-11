@@ -17,5 +17,8 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://gabrielduartem.github.io/cv-gabriel-duarte"
+  "homepage": "https://gabrielduartem.github.io/cv-gabriel-duarte",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
 }
