@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "^16.0.0",
     "react-dom": "^15.6.1",
     "react-intl": "^2.4.0",
     "react-scripts": "1.0.13"
