@@ -14,3 +14,7 @@ body {
 #root {
   margin-right: 50px;
 }
+
+* {
+  -webkit-print-color-adjust: exact;
+}
