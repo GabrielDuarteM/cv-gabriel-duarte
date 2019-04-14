@@ -3,7 +3,13 @@
     "id": "experiencia-list.experiencias",
     "experiencias": [
       {
-        "data": { "inicio": "02/15/17", "fim": "hide" },
+        "data": { "inicio": "11/01/18", "fim": "hide" },
+        "descSimples": "experiencia.common.desenvolvedor",
+        "descricao": "experiencia.item4.descricao",
+        "lugar": "experiencia.common.borderguru"
+      },
+      {
+        "data": { "inicio": "02/15/17", "fim": "09/01/18" },
         "descSimples": "experiencia.common.desenvolvedor",
         "descricao": "experiencia.item3.descricao",
         "lugar": "experiencia.common.exact-sales"
@@ -26,21 +32,14 @@
     "id": "experiencia-list.educacao",
     "experiencias": [
       {
-        "data": { "inicio": "01/01/2013", "fim": "01/01/2017", "formato": "ano" },
+        "data": {
+          "inicio": "01/01/2013",
+          "fim": "01/01/2017",
+          "formato": "ano"
+        },
         "descSimples": "educacao.item1.titulo",
         "descricao": "educacao.item1.descricao",
         "lugar": "educacao.common.estacio"
-      }
-    ]
-  },
-  {
-    "id": "experiencia-list.cursos",
-    "experiencias": [
-      {
-        "data": { "inicio": "05/01/2015", "fim": "hide" },
-        "descSimples": "cursos.item1.titulo",
-        "descricao": "cursos.item1.descricao",
-        "lugar": "cursos.common.estacio"
       }
     ]
   }

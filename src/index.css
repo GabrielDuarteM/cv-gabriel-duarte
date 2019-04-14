@@ -18,3 +18,10 @@ body {
 * {
   -webkit-print-color-adjust: exact;
 }
+
+@media print {
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+}
