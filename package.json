@@ -20,6 +20,6 @@
   },
   "homepage": "https://gabrielduarte.tech",
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.2.0"
   }
 }
